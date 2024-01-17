@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+npx eslint --fix "src/**/*.js" (if you face errors related to eslint)
+
+npx prettier --write "src/**/*.js"
+(if you face errors related to prettier)
 
 ### Compiles and hot-reloads for development
 ```
